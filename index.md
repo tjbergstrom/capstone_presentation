@@ -4,7 +4,9 @@
 
 <br>
 
-### I developed an app for the Alaska Public Health Information Response Team to help monitor and respond to health misinformation in social media. The app significantly simplifies their notification process. I also used the app as an opportunity to provide a variety of Machine Learning and Natural Language Processing tools and data visuals to help their efforts.
+### I developed an app for the Alaska Public Health Information Response Team to help monitor and respond to health misinformation in social media. The app significantly simplifies their notification process. I also used the app as an opportunity to provide a variety of Machine Learning and Natural Language Processing tools and data visuals to help their efforts. This is a brief overview of some of the cool features.
+
+You can read more about the team [here](https://www.uaa.alaska.edu/news/archive/2021/04/students-faculty-curb-misinformation.cshtml?utm_source=seawolfweekly&utm_medium=email&utm_content=SW_20210421&utm_campaign=Green+and+Gold+News).
 
 <br>
 
@@ -20,13 +22,13 @@ The students who monitor social media pages for misinformation can easily log in
 
 ![alt text](https://raw.githubusercontent.com/tjbergstrom/capstone_presentation/main/assets/00b.png)
 
-The misinformation classifier checks that the comment really is misinformation. If it is, then the Response Team receives an automatic email with a link that takes them directly to the comment.
+The misinformation classifier checks that the comment really is misinformation. If it is, then the response team receives an automatic email with a link to the comment.
 
 <br>
 
 ![alt text](https://raw.githubusercontent.com/tjbergstrom/capstone_presentation/main/assets/LSTM.png)
 
-I developed the misinformation classifier with a Long Short Term Memory (LSTM) neural network using custom datasets of thousands of comments that I collected. The classifier replaces manual filtering by a professor, which was a bottleneck in their previous messaging system.
+I developed the misinformation classifier with a Long Short Term Memory (LSTM) neural network using custom datasets of thousands of comments that I collected. The classifier replaces manual filtering by a professor, which was a bottleneck in their previous messaging system. This new system also helps save time by checking for duplicates and other filtering checks.
 
 <br>
 
