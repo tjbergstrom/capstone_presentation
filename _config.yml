@@ -1,2 +1,4 @@
 theme: jekyll-theme-midnight
-is_project_page: false
+title: Misinformation Monitoring Project
+github:
+	is_project_page: false
