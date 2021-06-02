@@ -26,7 +26,7 @@ The misinformation classifier checks that the comment really is misinformation. 
 
 ![alt text](https://raw.githubusercontent.com/tjbergstrom/capstone_presentation/main/assets/LSTM.png)
 
-I developed the misinformation classifier with a Long Short Term Memory neural network using custom datasets of thousands of comments that I collected. The classifier replaces manual filtering by a professor, which was a bottleneck. The system also saves time by checking for duplicates and other checks.
+I developed the misinformation classifier with a Long Short Term Memory (LSTM) neural network using custom datasets of thousands of comments that I collected. The classifier replaces manual filtering by a professor, which was a bottleneck in their previous messaging system.
 
 <br>
 
